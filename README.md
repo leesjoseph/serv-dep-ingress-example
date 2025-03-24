@@ -1,7 +1,7 @@
 # serv-dep-ingress-example
 Service, deployment and ingress example
 
-'''
+```
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -52,4 +52,4 @@ spec:
             name: nginx-test
             port:
               number: 80
-        '''
+```
