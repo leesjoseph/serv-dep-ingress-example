@@ -42,7 +42,7 @@ metadata:
   name: nginx-test
 spec:
   rules:
-  - host: test.choilab.xyz
+  - host: test.slee.it.kr
     http:
       paths:
       - pathType: Prefix
